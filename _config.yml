@@ -1,0 +1,28 @@
+name: Pipe and Slippers
+favicon: null
+layout_spectrum: 0.6108426980208606
+typography_spectrum: 0.9564036603551358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2917430563829839
+  lightness: 0.09990730206482112
+  saturation: 0.5411100259516388
+  rhythmicContrast: 0.6793206483125687
+purpose: []
